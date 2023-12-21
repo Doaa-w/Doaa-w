@@ -2,6 +2,6 @@
 - 🧑‍🎓 I have A Computer Science
 - 👀💼 I’m Studying Web Development with  Integrify Academy + SDA 
 - 💻⌨️ I’m currently learning the Backend Development 
-- 📫📧 How to reach me  E-mail: Dia13@outlook.sa | 
+- 📫📧 How to reach me  E-mail: Doaaw.alotibi@outlook.sa 
 
 
